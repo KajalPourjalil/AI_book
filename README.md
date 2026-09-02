@@ -2,3 +2,5 @@
 writing a silly book to learn git
 
 we will use this file using this tutorial
+
+here is the new line
